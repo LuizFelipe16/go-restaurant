@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+# Project Refactoring Code ClassComponents JS for FunctionComponents TS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### created directly by rocketseat as an Ignite challenge, that's my conclusion to this amazing challenge.
 
-## Available Scripts
+- `Challenge`: refactor a project made in react with javascript and with Class Components to a recat project in typescript with Functional Components.
 
-In the project directory, you can run:
+- `Tools`: *ReactJS* & *Typescript* & *JsonServer*
 
-### `yarn start`
+| How to get started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. download the repository and run the yarn command on the folder.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. run yarn dev and yarn server.
 
-### `yarn test`
+3. open the application on localhost:8080.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. have fun, just like I did when I programmed.
 
-### `yarn build`
+____________________________________________________________________
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# PT-BR 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Projeto Refatoração do Código ClassComponents em JS para FunctionComponents em TS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### criado diretamente pela rocketseat como um desafio do Ignite, essa é a minha conclusão desse desafio incrível.
 
-### `yarn eject`
+- `Desafio`: refatorar um projeto feito em react com javascript e com Componentes em Classe para um projeto recat em typescript com Componentes Funcionais.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- `Ferramentas`: *ReactJS* & *Typescript* & *JsonServer*
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| Como iniciar
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. baixe o repositório e execute o comando yarn na pasta.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+2. execute yarn dev e yarn server.
 
-## Learn More
+3. abra a aplicação em localhost:8080.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. divirta-se, assim como eu quando programei.
