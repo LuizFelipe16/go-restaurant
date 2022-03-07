@@ -1,39 +1,113 @@
-# Project Refactoring Code ClassComponents JS for FunctionComponents TS
+![Banner](/src/assets/banner.png)
 
-#### created directly by rocketseat as an Ignite challenge, that's my conclusion to this amazing challenge.
+<br/>
 
-- `Challenge`: refactor a project made in react with javascript and with Class Components to a recat project in typescript with Functional Components.
+# GoRestaurant
 
-- `Tools`: *ReactJS* & *Typescript* & *JsonServer*
+### Ignite Challenge Project! Basic Challenge with the objective of refactoring a project made in react with javascript using Class Components to a react project in typescript with Functional Components.
 
-| How to get started
+<br/>
+<br/>
 
-1. download the repository and run the yarn command on the folder.
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/) ![Badge](https://img.shields.io/static/v1?label=MadeWith&message=TypeScript&color=OO7accstyle=for-the-badge&logo=ghost) ![Badge](https://img.shields.io/static/v1?label=Usage&message=ReactJS&color=007accstyle=for-the-badge&logo=ghost) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-2. run yarn dev and yarn server.
+<br/>
+<br/>
 
-3. open the application on localhost:8080.
+🛠 Technologies
+=================
+The following tools were used in building the project:
 
-4. have fun, just like I did when I programmed.
+- 👉 [ReactJS](https://pt-br.reactjs.org/)
+- 👉 [TypeScript](https://www.typescriptlang.org/)
+- 👉 [React-icons](https://react-icons.github.io/react-icons)
+- 👉 [React-modal](https://reactcommunity.org/react-modal/)
+- 👉 [styled-components](https://styled-components.com/docs)
+- 👉 [axios](https://axios-http.com/docs/intro)
+- 👉 [yup](https://github.com/jquense/yup)
+- 👉 [JSON Server](https://www.npmjs.com/package/json-server)
 
-____________________________________________________________________
+<br/>
 
-# PT-BR 
+<p align="center">
+  🤖 Project Status 🚀 Complete! 🤖
+</p>
+<br/>
 
-## Projeto Refatoração do Código ClassComponents em JS para FunctionComponents em TS
+Getting Started
+=================
 
-#### criado diretamente pela rocketseat como um desafio do Ignite, essa é a minha conclusão desse desafio incrível.
+These instructions will get you a copy of the full project up and running on your local machine for development and testing purposes.
 
-- `Desafio`: refatorar um projeto feito em react com javascript e com Componentes em Classe para um projeto recat em typescript com Componentes Funcionais.
+The project can be built with npm or yarn, so choose one of the approach bellow in case you don't have any installed on your system.
 
-- `Ferramentas`: *ReactJS* & *Typescript* & *JsonServer*
+- Npm is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Node.js](https://nodejs.org/en/)
 
-| Como iniciar
+- Yarn is a package manager built by Facebook Team and seems to be faster than npm in general.
 
-1. baixe o repositório e execute o comando yarn na pasta.
+<br/>
 
-2. execute yarn dev e yarn server.
+Features 
+=================
+<br/>
 
-3. abra a aplicação em localhost:8080.
+- ✅ Json Server API queries with Axios;
+- ✅ List all foods;
+- ✅ Edit a food;
+- ✅ Create a new food;
+- ✅ Field validation with Yup.
 
-4. divirta-se, assim como eu quando programei.
+<br/>
+
+How to Install
+=================
+
+- To download the project follow the instructions bellow:
+
+```bash
+1. git clone
+2. cd ignite-challenge-refactoring
+```
+
+- Install the dependencies and start:
+
+```bash
+3. yarn
+4. yarn start and yarn server
+```
+- or
+
+```bash
+3. npm install
+4. npm run start and npm run server
+```
+
+- Have fun just like me while programming
+
+<br/>
+
+Screen Shots
+=================
+
+- Home
+
+![ScreenShot](/src/assets/home.png)
+
+<br/>
+
+- Add Food
+
+![ScreenShot](/src/assets/add.png)
+
+<br/>
+
+Author
+=================
+
+Luiz Felipe S. Felizatti 🎯 
+
+Contact:
+
+- [Linkedin](https://www.linkedin.com/in/luiz-felipe-siqueira-felizatti-00783a1ab/)
+
+- [Instagram](https://www.instagram.com/luiz_2fs/)
