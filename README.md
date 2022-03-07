@@ -66,7 +66,7 @@ How to Install
 
 ```bash
 1. git clone
-2. cd ignite-challenge-refactoring
+2. cd go-restaurant
 ```
 
 - Install the dependencies and start:
